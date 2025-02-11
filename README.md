@@ -47,13 +47,6 @@ Start for Project
 
 - Redux Thunk
 
-## Related projects
-
-You can take a look at the frontends for my React Redux Online Banking App and Android Java Online Banking App projects for this application.
-
-Java Spring Online Banking Rest Api [Java Spring Rest API](https://github.com/Berko01/Advanced-Backend-Project-With-Java-Spring-Online-Banking-Rest-Api)
-
-Android Online Banking App: [Android Java Online Banking App](https://github.com/Berko01/Android-Online-Banking-App-With-Java-Spring)
 
 ## Extracted Lessons
 
